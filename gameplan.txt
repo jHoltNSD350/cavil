@@ -1,0 +1,3 @@
+- implement react(perhaps native or add cordova later)
+- create AWS amplify/firebase server
+- add AWS lambda for notifications
