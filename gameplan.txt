@@ -1,3 +1,4 @@
 - implement react(perhaps native or add cordova later)
+- okta or firebase sign in
 - create AWS amplify/firebase server
 - add AWS lambda for notifications
